@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\bin\Debug\BT03_102190164_BuiVietHuyhoang.exe.config
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\bin\Debug\BT03_102190164_BuiVietHuyhoang.exe
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\bin\Debug\BT03_102190164_BuiVietHuyhoang.pdb
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.Properties.Resources.resources
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.exe
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.pdb
+C:\Users\ACER\source\repos\BT03_102190164_BuiVietHuyhoang\obj\Debug\BT03_102190164_BuiVietHuyhoang.Form1.resources
